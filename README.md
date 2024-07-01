@@ -1,4 +1,4 @@
-![Alt text] <a href="https://imgflip.com/i/8vm2yr"><img src="https://i.imgflip.com/8vm2yr.jpg" title="made at imgflip.com"/></a><div><a href="https://imgflip.com/memegenerator">imgflip</a></div>
+<a href="https://imgflip.com/i/8vm2yr"><img src="https://i.imgflip.com/8vm2yr.jpg" title="made at imgflip.com"/></a></div>
 
 # Custom `_printf` Function
 
