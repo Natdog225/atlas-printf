@@ -50,17 +50,10 @@ To use the custom `_printf` function, follow these steps:
 3. Call the `_printf` function in your code as you would with the standard `printf`.
 
 ## Tasks
-Resources
-Read or watch:
-
-Secrets of printf
-Group Projects concept page (Don’t forget to read this)
-Flowcharts concept page
-man or help:
 
 printf (3)
-Requirements
-General
+### Requirements
+#### General
 Allowed editors: vi, vim, emacs
 All your files will be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89
 All your files should end with a new line
@@ -76,7 +69,7 @@ Note that we will not provide the _putchar function for this project
 GitHub
 There should be one project repository per group. If you clone/fork/whatever a project repository with the same name before the second deadline, you risk a 0% score.
 
-0. I'm not going anywhere. You can print that wherever you want to. I'm here and I'm a Spur for life
+- 0. I'm not going anywhere. You can print that wherever you want to. I'm here and I'm a Spur for life
 mandatory
 Write a function that produces output according to a format.
 
@@ -96,7 +89,7 @@ Repo:
 
 GitHub repository: atlas-printf
 
-1. Education is when you read the fine print. Experience is what you get if you don't
+- 1. Education is when you read the fine print. Experience is what you get if you don't
 mandatory
 Handle the following conversion specifiers:
 
@@ -110,7 +103,7 @@ Repo:
 
 GitHub repository: atlas-printf
 
-2. Just because it's in print doesn't mean it's the gospel
+- 2. Just because it's in print doesn't mean it's the gospel
 mandatory
 Create a man page for your function.
 
