@@ -15,7 +15,7 @@ This project implements a simplified version of the standard `printf` function i
 
 ## Overview
 
-The `_printf` function is a custom implementation of the C standard library function `printf`. It allows you to print formatted output to the standard output stream (stdout). This project is part of a C programming course and aims to demonstrate an understanding of variadic functions and formatted output.
+A customized version of the C standard library function `printf` is called _printf. Formatted output can be printed to the standard output stream (stdout). The goal of this project, which is a component of a C programming course, is to show that you understand formatted output and variadic functions.
 
 ## Requirements
 
