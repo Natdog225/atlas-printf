@@ -113,5 +113,5 @@ File: man_3_printf
 
 ## Authors
 
--John Wilson
--Nathan Wilson
+- John Wilson
+- Nathan Wilson
